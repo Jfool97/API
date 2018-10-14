@@ -1,4 +1,4 @@
-# go-MyVIT
+# go-MyVIT (DEPRECATED)
 The student login API for the app MyVIT in Go programming language<br />
 [![Build Status](https://travis-ci.org/shubhodeep9/go-MyVIT.svg?branch=master)](https://travis-ci.org/shubhodeep9/go-MyVIT)
 [![Go Report Card](https://goreportcard.com/badge/github.com/shubhodeep9/go-MyVIT)](https://goreportcard.com/report/github.com/shubhodeep9/go-MyVIT)
